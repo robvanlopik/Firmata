@@ -1,3 +1,0 @@
-pin modes
-valueForInputMode
-^FirmataConstants pinModeInput

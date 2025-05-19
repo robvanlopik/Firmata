@@ -1,3 +1,0 @@
-connection
-isConnected
-^port notNil

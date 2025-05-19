@@ -1,3 +1,0 @@
-accessing
-nameSymbol
-	^ #firmata
